@@ -1,0 +1,36 @@
+BestMarkers.py
+
+
+
+Parameters:
+Name input: /home/malvina/Bureau/AllMarker_Ex/Transcriptome/Final_AllSelectedSequences/Transcriptome4
+Number of baits: 6000
+Baits length: 120
+Baits Coverage: 4
+Minimal length of sequences: 1200
+Take introns presence into account for markers selection ? Y (Used arbitrary length: 200)
+Sequences have been sorted according to length and similarity. Priority was given to None
+
+
+
+Stat summary: 
+Number of sequences before markers selection: 331
+Number of sequences after markers selection: 94
+Target length: 
+	Max: 7706
+	Min: 1242
+	Average: 2614.0
+	Median: 2349.0
+	Standart deviation: 994.0
+Predicted length: 
+	Max: 8306
+	Min: 1242
+	Average: 2692.0
+	Median: 2496.0
+	Standart deviation: 1035.0
+Similarity: 
+	Max: 86.0
+	Min: 76.0
+	Average: 82.0
+	Median: 83.0
+	Standart deviation: 3.0
